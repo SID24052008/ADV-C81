@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(198, 78, 214); 
+	font-size: 40px;
+	font-family: fantasy;
+	font-weight: bold;
+}
+.body_backgorund {
+	background-image:url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-color: white;
+	border-style: ridge;
+}
